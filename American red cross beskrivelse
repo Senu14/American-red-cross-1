@@ -1,7 +1,29 @@
+American red cross beskrivelse
+
 I den opgaver jeg skal bruge 
-*_colors.scss skal indeholder $ (fordi det er variabler).
-*_fonts.scss skal indeholder @mixins og @import. 
-*_logos.scss skal indeholder @mixins og @use for import min fave.
-*_sections og hver section i side skal indeholder @mixins og @use for import min fave.
-*_typography skal indeholder @mixins og @import og måske jeg bruge også (@use) for import min fave.
+*først sections skal indehode 1 partial med 3 mixin til tre dele og partial skal indeholder @mixins og @use for import min fave.
+*i second section vi skal have en partial og skal bare indeholder (_colors.scss skal indeholder $ (fordi det er variabler)).
+*_fonts.scss skal indeholder @mixin og @import. 
+*_logos.scss skal indeholder @mixin og @use for import min fave.
+*_typography skal indeholder @mixin og @import og måske jeg bruge også (@use) for import min fave.
 *@include i min SCSS file, som har oprettet en partial.
+
+
+American red cross 2
+
+I den opgaver også jeg bruge
+*I den først sections skal indehode 1 partial med 2 mixin til to dele og partial skal indeholder (billeder og font oplysninger).
+*i second section vi skal have en partial (med 2 mixin) og anden partial ind i den først og  skal indeholder (billeder, et knap, font oplysninger).
+*i den tredje section skal vi have en partial (med 2 mixin i)  og anden partial ind i den først og  skal indeholder (et knap, og en single input form og font oplysninger).
+*i den fjerde section skal vi have to partial (med 2 mixin i) en partial skal indeholder (et knap, og to input form og font oplysninger) og den anden partial skal bare indehldes billed.
+*i den femte section skal vi have to partial (med 2 mixin i)  en partial skal indeholder (alle iconer og font oplysninger) og den anden partial skal bare indehldes billed.
+*I den sjette sections skal indehode 1 partial (med 2 mixin i) til to dele og partial skal indeholder (billeder, et knap, font oplysninger).
+*I den syvende sections skal indehode 2 partial (med 2 mixin i) en partial skal indeholder (font oplysninger) og det forskellig ikoner.
+*I den ottende sections skal indehode 1 partial med 2 mixin til to dele og partial skal indeholder (flirer billeder det kommer efter hinanden og font oplysninger)
+*I den niende sections skal indehode 1 partial med 2 mixin til to dele og partial skal indeholder (font oplysninger og det forskellig ikoner).
+*I den tiende sections skal indehode 1 partial med 2 mixin til to dele og partial skal indeholder (font oplysninger og et knap og et enklt input form).
+*I den ellevte sections skal indehode 1 partial med 2 mixin til to dele og partial skal indeholder (footer section, media ikoner og font oplysninger).
+
+
+*_colors.scss skal indeholder $ (fordi det er variabler). 
+*_logos.scss skal indeholder @mixin og @use for import min fave.
