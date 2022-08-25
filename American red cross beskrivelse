@@ -12,9 +12,9 @@ I den opgaver jeg skal bruge
 American red cross 2
 
 I den opgaver også jeg bruge
-*I den først sections skal indehode 1 partial med 2 mixin til to dele og partial skal indeholder (billeder og font oplysninger).
-*i second section vi skal have en partial (med 2 mixin) og anden partial ind i den først og  skal indeholder (billeder, et knap, font oplysninger).
-*i den tredje section skal vi have en partial (med 2 mixin i)  og anden partial ind i den først og  skal indeholder (et knap, og en single input form og font oplysninger).
+*I den først sections skal indehode 1 partial med 1 mixin og partial skal indeholder ( font oplysninger).
+*i second section vi skal have en partial (med 1 mixin) og  skal indeholder (et knap, font oplysninger).
+*i den tredje section skal vi have en partial (med 2 mixin i) skal indeholder (et knap,en enklt input form og font oplysninger).
 *i den fjerde section skal vi have to partial (med 2 mixin i) en partial skal indeholder (et knap, og to input form og font oplysninger) og den anden partial skal bare indehldes billed.
 *i den femte section skal vi have to partial (med 2 mixin i)  en partial skal indeholder (alle iconer og font oplysninger) og den anden partial skal bare indehldes billed.
 *I den sjette sections skal indehode 1 partial (med 2 mixin i) til to dele og partial skal indeholder (billeder, et knap, font oplysninger).
