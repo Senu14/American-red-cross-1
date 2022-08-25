@@ -1,0 +1,7 @@
+I den opgaver jeg skal bruge 
+*_colors.scss skal indeholder $ (fordi det er variabler).
+*_fonts.scss skal indeholder @mixins og @import. 
+*_logos.scss skal indeholder @mixins og @use for import min fave.
+*_sections og hver section i side skal indeholder @mixins og @use for import min fave.
+*_typography skal indeholder @mixins og @import og måske jeg bruge også (@use) for import min fave.
+*@include i min SCSS file, som har oprettet en partial.
